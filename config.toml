@@ -1,6 +1,0 @@
-title = "02806 Final Project"
-baseURL = "https://aaronalberg.github.io/social-data-final-website/"
-languageCode = "en-us"
-resourceDir = "../resources"
-theme = "ananke"
-publishDir = "docs"

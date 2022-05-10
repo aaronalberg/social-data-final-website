@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 02806 Final Project</title>
+    <link>https://aaronalberg.github.io/social-data-final-website/posts/</link>
+    <description>Recent content in Posts on 02806 Final Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2022 11:36:36 +0200</lastBuildDate><atom:link href="https://aaronalberg.github.io/social-data-final-website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis of Melbourne&#39;s living environment </title>
+      <link>https://aaronalberg.github.io/social-data-final-website/posts/melbourne/</link>
+      <pubDate>Tue, 10 May 2022 11:36:36 +0200</pubDate>
+      
+      <guid>https://aaronalberg.github.io/social-data-final-website/posts/melbourne/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis bibendum purus, sit amet lacinia quam vestibulum sit amet. Praesent fermentum ex orci, eget posuere quam tempus ac. In pulvinar semper dolor ut fringilla. In dolor nibh, mollis et sollicitudin vel, efficitur in lorem. Sed in rutrum massa. Aliquam nec mattis felis. Sed imperdiet sem ac tellus congue, eu malesuada mi hendrerit. Suspendisse tortor nibh, imperdiet at erat eu, gravida eleifend augue.</description>
+    </item>
+    
+  </channel>
+</rss>

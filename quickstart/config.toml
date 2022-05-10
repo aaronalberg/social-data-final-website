@@ -1,5 +1,0 @@
-title = "02806 Final Project"
-baseURL = "https://02806-finalproject-melbourne.dev"
-languageCode = "en-us"
-resourceDir = "../resources"
-theme = "ananke"

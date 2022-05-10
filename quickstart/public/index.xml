@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>02806 Final Project</title>
+    <link>https://02806-finalproject-melbourne.dev/</link>
+    <description>Recent content on 02806 Final Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 14:00:07 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 11:36:36 +0200</lastBuildDate><atom:link href="https://02806-finalproject-melbourne.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Tue, 10 May 2022 14:00:07 +0200</pubDate>
+      <title>Analysis of Melbourne&#39;s living environment </title>
+      <link>https://02806-finalproject-melbourne.dev/posts/melbourne/</link>
+      <pubDate>Tue, 10 May 2022 11:36:36 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>alsd;fj;saldjf;lksjflsjd;lfkjs</description>
+      <guid>https://02806-finalproject-melbourne.dev/posts/melbourne/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis bibendum purus, sit amet lacinia quam vestibulum sit amet. Praesent fermentum ex orci, eget posuere quam tempus ac. In pulvinar semper dolor ut fringilla. In dolor nibh, mollis et sollicitudin vel, efficitur in lorem. Sed in rutrum massa. Aliquam nec mattis felis. Sed imperdiet sem ac tellus congue, eu malesuada mi hendrerit. Suspendisse tortor nibh, imperdiet at erat eu, gravida eleifend augue.</description>
     </item>
     
   </channel>
